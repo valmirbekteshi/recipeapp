@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">recipeapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_username_input_text">Username</string>
+    <string name="password_username_input_text">Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="register_btn_text">Register</string>
+    <string name="email_input_text">Email</string>
+    <string name="rp_password_username_input_text">Repeat Password</string>
+</resources>
